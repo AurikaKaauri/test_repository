@@ -5,5 +5,10 @@ There are no changes in it.
 Commit to be seen on github
 testing ssh
 bug fixed
+<<<<<<< HEAD
 here we test to see how modifying the same file in different branches works
 
+=======
+line from user 1
+Changes for remote branch
+>>>>>>> 1bc8ac6a23f888724ace95b4325ea43f31089364

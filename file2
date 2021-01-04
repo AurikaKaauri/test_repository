@@ -5,4 +5,10 @@ There is a new day!
 There is a second day in the tunnel.
 Some other string.
 learning git checkout on file 2.
+<<<<<<< HEAD
 fixed a bug
+=======
+Line from user2
+another line from user2
+this is a line to be pushed with a new branch on origin
+>>>>>>> 1bc8ac6a23f888724ace95b4325ea43f31089364
